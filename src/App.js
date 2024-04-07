@@ -7,12 +7,7 @@ function App() {
         <p>
           Welcome to Raising Software Solution.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href='https://javatecci.github.io/raisingsoftwaresolutions/'>
 Raising Software Solution        </a>
       </header>
     </div>
